@@ -1,4 +1,21 @@
-p{
+/* p{
     color:aquamarine;
     background-color: brown;
+} */
+
+.cs3{
+    color: green;
+
+}
+.abes{
+    color: red;
+}
+#ab{
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+}
+
+p{ 
+    font-size: 3rem;
 }
